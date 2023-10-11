@@ -1,4 +1,4 @@
 git "https://chromium.googlesource.com/webm/libwebp" "v1.3.2"
 github "pinterest/PINCache" "3.0.3"
 github "pinterest/PINOperation" "1.2.2"
-github "thabofletcher/PINRemoteImage" "000b0a2446fe8ffd052d29bc909c9999ab71fd01"
+github "thabofletcher/PINRemoteImage" "32d82456946b70a7803305525945590d383c7903"
